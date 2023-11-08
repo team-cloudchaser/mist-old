@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "displayDebugData": false,
+  "leafSize": 10,
+  "leafLifespan": 200,
+  "leafSpawnRate": 20,
+  "coniferLeafSpawnRate": 20,
+  "dropFromPlayerPlacedBlocks": true,
+  "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
+  "leafSettings": {
+    "minecraft:jungle_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:acacia_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:dark_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true
+    },
+    "promenade:white_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:pink_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    }
+  },
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 1.8,
+  "winterSpawnRateFactor": 0.1
+}

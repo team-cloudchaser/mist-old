@@ -1,0 +1,31 @@
+{
+  "defaultDisplayMode": 1,
+  "allowPlayersToChangePersonalSettings": true,
+  "displayTime": 3000,
+  "command": {
+    "commandAliases": [
+      "fabrichealthdisplayer",
+      "fhd",
+      "healthdisplayer",
+      "hd"
+    ],
+    "permission": {
+      "commandRequiresPermission": false,
+      "commandPermission": {
+        "node": "fabrichealthdisplayer.use",
+        "level": "op level 1"
+      }
+    },
+    "commandSuccessText": {
+      "color": "green",
+      "extra": [
+        {
+          "color": "white",
+          "text": " Updated your display settings!"
+        }
+      ],
+      "text": "[✓]"
+    }
+  },
+  "playerPreferences": {}
+}

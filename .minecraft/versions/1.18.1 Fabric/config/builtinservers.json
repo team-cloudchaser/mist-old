@@ -1,0 +1,21 @@
+{
+	"builtinServers": [{
+			"name": "Project \u00a7aLiquestria\u00a7f: Auto",
+			"address": "liquestria.ltgc.cc"
+	},{
+			"name": "Project \u00a7aLiquestria\u00a7f: VLAN",
+			"address": "192.167.33.192"
+	},{
+			"name": "Project \u00a7aLiquestria\u00a7f: Yggdrasil",
+			"address": "[202:ff2b:6cf:fb9:f273:6636:8e66:6e5c]"
+	},{
+			"name": "Project \u00a7aLiquestria\u00a7f: Lokinet",
+			"address": "a565k96pm5p4wbej75kjzcoiq4txizr31o4q3xrh5e9j8qze3bgo.loki"
+	},{
+			"name": "Project \u00a7aLiquestria\u00a7f: Local IPv4",
+			"address": "127.0.0.1:25564"
+	},{
+			"name": "Project \u00a7aLiquestria\u00a7f: Local IPv6",
+			"address": "127.0.0.1"
+	}]
+}
